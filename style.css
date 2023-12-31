@@ -1,0 +1,232 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.small-box {
+    width: 150px;
+    height: 40px;
+    font-size: 13px;
+    background-color: rgba(242, 48, 48, 0.938);
+
+}
+
+.simpencilimage {
+    height: 40px;
+}
+
+.main-container {
+    width: 78%;
+    height: 60px;
+    background-color: rgb(218, 219, 221);
+}
+
+.mleft {
+    margin-left: -35px;
+}
+
+.user-pic {
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+}
+
+.width-20 {
+    width: 20px;
+    font-size: 12px;
+    height: 20px;
+    background-color: lightblue;
+}
+
+.width-30 {
+    width: 13%;
+}
+
+.arrow-left {
+    width: 18px;
+}
+
+.devices {
+    height: 19px;
+}
+
+.bg-light-blue {
+    background-color: rgb(123, 226, 245);
+}
+
+.robotimage {
+    width: 20px;
+
+}
+
+.needHelp {
+    height: 9.5%;
+    background-color: rgb(218, 219, 221);
+}
+
+.sidebox {
+    width: 22%;
+    height: 90vh;
+}
+
+.left-side-bar {
+    width: 35%;
+    height: 82vh;
+    border-right: 2px solid rgb(212, 209, 209);
+}
+
+.bg-light-blue1 {
+    background-color: rgb(219, 239, 248);
+    font-weight: 500;
+    color: rgb(90, 89, 89);
+    font-size: 15px;
+}
+
+.pd-2 {
+    padding-bottom: 7.5px;
+    border-bottom: 3px solid rgb(147, 147, 147);
+}
+
+.quetion-mark {
+    font-size: 10px;
+    background-color: rgb(245, 116, 80);
+}
+
+.bg-light-dark {
+    background-color: rgba(211, 211, 211, 0.775);
+    color: rgb(74, 74, 74);
+}
+
+.width-50 {
+    width: 80px;
+}
+
+.border-blue {
+    border: 2px solid rgb(107, 156, 219);
+}
+
+.middle-box {
+    width: 80%;
+}
+
+.fw-boldest {
+    font-weight: 1000;
+}
+
+.bg-darker {
+    background-color: rgb(223, 221, 221);
+}
+
+.font-size-small {
+    font-size: 12px;
+}
+
+.form-control1 {
+    display: block;
+    border: 1px solid rgb(216, 215, 215);
+    background-color: rgb(250, 248, 248);
+    height: 25px;
+}
+
+.font-size-medium {
+    font-size: 13.5px;
+}
+
+.btn-lightred {
+    background-color: rgb(242, 118, 47);
+}
+
+.btn-outline-lightred {
+    border: 1.5px solid rgb(242, 118, 47);
+}
+
+.rounded-5 {
+    border-radius: 50px;
+}
+
+.text-orange {
+    color: rgb(242, 118, 47);
+    ;
+}
+
+.font-size-larger {
+    font-size: 14px;
+}
+
+.w-small {
+    width: 10px;
+}
+
+.input-box {
+    height: 22px;
+    outline: none;
+}
+
+.input-box :focus {
+    outline: none;
+    border: none;
+}
+
+.color-box {
+    width: 30px;
+}
+
+.background {
+    margin-top: 25px;
+    position: relative;
+    font-size: 8px;
+    color: rgb(245, 245, 247);
+    background-color: rgb(38, 130, 241);
+    width: 70px;
+    bottom: -2px;
+    text-align: center;
+}
+
+.templates {
+    margin-top: 25px;
+    position: relative;
+    font-size: 13px;
+    color: rgb(245, 245, 247);
+    background-color: rgb(38, 130, 241);
+    width: 100px;
+    bottom: -2px;
+    text-align: center;
+}
+
+.selected:hover {
+    background-color: rgb(207, 236, 249);
+    box-shadow: 1px 1px rgb(207, 236, 249);
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(40, 39, 39, 0.5);
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.modalFrom {
+    background: #f8f7f7;
+    border-radius: 15px;
+}
+
+.dottedLine {
+    border-bottom: 2px dotted #000;
+    height: 2px;
+    background: transparent;
+}
+
+.childContainer:first-child {
+    background-color: rgb(107, 223, 107);
+}
+
+.containerGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 130px);
+}
